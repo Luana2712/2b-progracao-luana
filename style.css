@@ -23,3 +23,11 @@ padding: 0;
   body{
   font-family: "Lobster Two"
   }
+
+  .turma{
+background-image: linear-gradient(#081767,#003cff);
+color: white;
+  }
+  .turma-imagem{
+   width: 30%;
+  }
